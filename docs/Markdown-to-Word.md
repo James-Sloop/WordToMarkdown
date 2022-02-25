@@ -30,6 +30,6 @@ Follow these instructions to convert a Markdown file to a word document using Pa
 
 - You should now have a file called `yourFile.docx` in your directory. It should look something like this:
 
-![Directory Image](yourFile.png)
+![Directory Image](yourFile.PNG)
 
 [Home](index.md)
