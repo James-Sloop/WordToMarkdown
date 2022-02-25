@@ -30,6 +30,6 @@ Follow these instructions to convert a Word document to a Markdown file using Pa
 
 - You should now have a file called `yourFile.md` in your directory. It should look something like this:
 
-![Directory Image](/docs/yourFile.png)
+![Directory Image](blob/main/docs/yourFile.PNG)
 
 [Home](index.md)
