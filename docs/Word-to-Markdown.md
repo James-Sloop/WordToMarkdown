@@ -26,10 +26,10 @@ Follow these instructions to convert a Word document to a Markdown file using Pa
 
 - In your terminernal enter the command `pandoc -s yourFile.docx -t markdown -o yourFile.md` where `yourFile` is the name of your file.
 
-- **Warning: if you haven't already installed pandoc, your operating system will not recognize the command. If this happens follow [these](Download-and-Instillation.md) instrusctions to install pandoc and return to the last step.**
+- **Warning:** if you haven't already installed pandoc, your operating system will not recognize the command. If this happens follow [these](Download-and-Instillation.md) instrusctions to install pandoc and return to the last step.
 
 - You should now have a file called `yourFile.md` in your directory. It should look something like this:
 
-![Directory Image](/docs/yourFile.PNG)
+![Directory Image](/docs/yourFile.png)
 
 [Home](index.md)

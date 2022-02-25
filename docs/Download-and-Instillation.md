@@ -23,12 +23,12 @@ Follow these instructions to download and install Pandoc.
 ## Steps
 
 - Go to the [Pandoc Website](https://pandoc.org/installing.html) where you should see this:
-![Pandoc Website](/docs/pandocwebsite.PNG)
+![Pandoc Website](https://github.com/James-Sloop/WordToMarkdown/blob/main/docs/pandocwebsite.png)
 
 - Click the button to download the installer on your operating system, Windows (64-bit) is shown here.
 - Pandoc should now be installed and it runs on the terminal so there isn't a GUI to open.
 - Open your terminal type `pandoc -v` and click enter. You should see something like this:
-![Command Line](/docs/commandline.PNG)
+![Command Line](/docs/commandline.png)
 - If the terminal displays a version number it means Pandoc is successfully installed.
 
 [Home](index.md)
