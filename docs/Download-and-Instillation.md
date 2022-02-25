@@ -8,7 +8,7 @@ Follow these instructions to download and install Pandoc.
 2. [Prerequisites](#prerequisites)
 3. [Success Conditions](#success-conditions)
 4. [Steps](#steps)
-5. [Home](WordToMarkdownGuide.md)
+5. [Home](index.md)
 
 ## Prerequisites
 
@@ -31,4 +31,4 @@ Follow these instructions to download and install Pandoc.
 ![Command Line](/docs/commandline.PNG)
 - If the terminal displays a version number it means Pandoc is successfully installed.
 
-[Home](WordtoMarkdownGuide.md)
+[Home](index.md)

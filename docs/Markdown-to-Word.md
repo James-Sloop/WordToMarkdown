@@ -8,7 +8,7 @@ Follow these instructions to convert a Markdown file to a word document using Pa
 2. [Prerequisites](#prerequisites)
 3. [Success Conditions](#success-conditions)
 4. [Steps](#steps)
-5. [Home](WordToMarkdownGuide.md)
+5. [Home](index.md)
 
 ## Prerequisites
 
@@ -32,4 +32,4 @@ Follow these instructions to convert a Markdown file to a word document using Pa
 
 ![Directory Image](/docs/yourFile.PNG)
 
-[Home](WordToMarkdownGuide.md)
+[Home](index.md)
